@@ -36,10 +36,6 @@ const Footer = () => {
                   Ogden, UT 84403
                 </span>
               </div>
-              <div className="flex items-center space-x-2">
-                <Mail className="h-4 w-4 text-sky-400" />
-                <span className="text-gray-300">underwoodfamily5@msn.com</span>
-              </div>
             </div>
           </div>
 

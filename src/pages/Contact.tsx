@@ -108,19 +108,6 @@ const Contact = () => {
 
                 <div className="flex items-start space-x-4">
                   <div className="flex-shrink-0">
-                    <Mail className="h-6 w-6 text-sky-600 mt-1" />
-                  </div>
-                  <div>
-                    <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                    <p className="text-gray-600">Send us a message</p>
-                    <a href="mailto:underwoodfamily5@msn.com" className="text-sky-600 font-semibold hover:text-sky-700">
-                      underwoodfamily5@msn.com
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0">
                     <Clock className="h-6 w-6 text-sky-600 mt-1" />
                   </div>
                   <div>
