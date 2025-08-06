@@ -41,7 +41,7 @@ const Services = () => {
               </div>
               <div className="w-full h-80 bg-gradient-to-br from-sky-100 to-sky-200 rounded-xl flex items-center justify-center">
                 <img
-                  src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://chucktowncolonics.com/wp-content/uploads/2023/07/colon-hydrotherapy-process.jpg"
                   alt="Colon Hydrotherapy Service"
                   className="w-full h-full object-cover rounded-xl"
                 />

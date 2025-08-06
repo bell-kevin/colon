@@ -20,8 +20,8 @@ const About = () => {
           <div className="space-y-6">
             <div className="w-full h-96 bg-gradient-to-br from-sky-100 to-emerald-100 rounded-2xl shadow-lg flex items-center justify-center">
               <img
-                src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=800"
-                alt="Lori Underwood - Professional Colon Therapist"
+                src="https://chucktowncolonics.com/wp-content/uploads/2023/07/colon-hydrotherapy-process.jpg"
+                alt="Professional Colon Hydrotherapy Process"
                 className="w-full h-full object-cover rounded-2xl"
               />
             </div>

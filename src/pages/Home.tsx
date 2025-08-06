@@ -46,8 +46,8 @@ const Home = () => {
             <div className="relative">
               <div className="w-full h-96 lg:h-[500px] bg-gradient-to-br from-sky-100 to-emerald-100 rounded-2xl shadow-2xl flex items-center justify-center">
                 <img
-                  src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=600"
-                  alt="Wellness and Health"
+                  src="https://drruscio.com/wp-content/uploads/2022/05/Illustration-of-the-intestine-before-and-after-Colon-hydrotherapy-1536x740.jpg"
+                  alt="Colon Hydrotherapy Before and After Illustration"
                   className="w-full h-full object-cover rounded-2xl"
                 />
               </div>
@@ -136,7 +136,7 @@ const Home = () => {
               <div className="space-y-6">
                 <div className="w-full h-48 bg-gradient-to-br from-sky-100 to-sky-200 rounded-xl flex items-center justify-center">
                   <img
-                    src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    src="https://chucktowncolonics.com/wp-content/uploads/2023/07/colon-hydrotherapy-process.jpg"
                     alt="Colon Hydrotherapy"
                     className="w-full h-full object-cover rounded-xl"
                   />
