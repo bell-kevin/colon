@@ -39,7 +39,7 @@ const IonicFootBath = () => {
 
           <div className="w-full h-96 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-2xl shadow-lg flex items-center justify-center">
             <img
-              src="https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="http://essentialhealingtouch.ca/wp-content/uploads/2016/03/ion-cleanse-foot-detox-1024x865.jpg"
               alt="Relaxing Ionic Foot Bath Treatment"
               className="w-full h-full object-cover rounded-2xl"
             />

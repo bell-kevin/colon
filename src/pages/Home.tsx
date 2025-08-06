@@ -188,7 +188,7 @@ const Home = () => {
               <div className="space-y-6">
                 <div className="w-full h-48 bg-gradient-to-br from-amber-100 to-amber-200 rounded-xl flex items-center justify-center">
                   <img
-                    src="https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=600"
+                    src="http://essentialhealingtouch.ca/wp-content/uploads/2016/03/ion-cleanse-foot-detox-1024x865.jpg"
                     alt="Ionic Foot Bath"
                     className="w-full h-full object-cover rounded-xl"
                   />
