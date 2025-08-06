@@ -44,7 +44,7 @@ const Home = () => {
             </div>
 
             <div className="relative">
-              <div className="w-full h-96 lg:h-[600px] bg-gradient-to-br from-sky-100 to-emerald-100 rounded-2xl shadow-2xl overflow-hidden">
+              <div className="w-full h-64 sm:h-80 md:h-96 lg:h-[600px] bg-gradient-to-br from-sky-100 to-emerald-100 rounded-2xl shadow-2xl overflow-hidden">
                 <img
                   src="https://drruscio.com/wp-content/uploads/2022/05/Illustration-of-the-intestine-before-and-after-Colon-hydrotherapy-1536x740.jpg"
                   alt="Colon Hydrotherapy Before and After Illustration"
