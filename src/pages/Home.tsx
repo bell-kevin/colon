@@ -46,7 +46,7 @@ const Home = () => {
             <div className="relative">
               <div className="w-full h-96 lg:h-[500px] bg-gradient-to-br from-sky-100 to-emerald-100 rounded-2xl shadow-2xl flex items-center justify-center">
                 <img
-                  src="https://images.pexels.com/photos/6823568/pexels-photo-6823568.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=600"
                   alt="Wellness and Health"
                   className="w-full h-full object-cover rounded-2xl"
                 />

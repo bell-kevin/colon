@@ -39,7 +39,7 @@ const ColonHydrotherapy = () => {
 
           <div className="w-full h-96 bg-gradient-to-br from-sky-100 to-sky-200 rounded-2xl shadow-lg flex items-center justify-center">
             <img
-              src="https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=800"
               alt="Professional Colon Hydrotherapy Treatment"
               className="w-full h-full object-cover rounded-2xl"
             />
