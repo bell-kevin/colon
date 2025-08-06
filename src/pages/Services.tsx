@@ -54,7 +54,7 @@ const Services = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
               <div className="w-full h-80 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-xl flex items-center justify-center order-2 lg:order-1">
                 <img
-                  src="https://images.pexels.com/photos/3997993/pexels-photo-3997993.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="https://images.pexels.com/photos/3188/spa-relax-relaxing-luxury.jpg?auto=compress&cs=tinysrgb&w=800"
                   alt="Ionic Foot Bath Service"
                   className="w-full h-full object-cover rounded-xl"
                 />
